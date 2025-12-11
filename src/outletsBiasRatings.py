@@ -1,0 +1,111 @@
+outletsBiasRatingsAllSides ={ ## https://www.allsides.com/media-bias/media-bias-ratings v1.1 2019
+'alternet': -2,
+'democracynow': -2,
+'db': -2,
+'hp': -2,
+'theintercept': -2,  
+'jacobin': -2,
+'motherjones': -2, #
+'thenewyorker': -2,
+'thenation': -2,    
+'slate': -2,    
+ 'vox': -2,
+
+'cnn': -1.5,
+'nyt': -1.5,    
+'abcnews': -1,
+'theatlantic': -1, #    
+'buzzfeed': -1,
+'cbs': -1,    
+'economist': -1, #
+'guardian': -1,
+'nbcnews': -1,
+'politico': -1,
+'timemagazine': -1,
+'wp': -1,
+'npr': -0.5,    
+    
+'ap': 0,
+'bbc': 0,
+'bloomberg': 0,
+'csm': 0,    
+'reuters': 0,
+'thehill': 0,
+'usatoday': 0,    
+    
+'wsj': 0.5,
+'reason': 1,
+'we': 1,
+'wt': 1,    
+'fox': 1.5,
+
+'americanspectator': 2,    
+'bre': 2,
+'theblaze': 2,
+'cbn': 2,
+'dailycaller': 2,    
+'dailymail': 2, #
+'dailywire': 2,
+'thefederalist': 2,       
+'nationalreview': 2,
+'nyp': 2,
+'newsmax': 2,
+ }
+ 
+
+outletAbbreviationToFullName = {
+    'alternet': "Alternet",
+    'democracynow': "Democracy Now",
+    'db': "Daily Beast",
+    'hp': "Huffington Post",
+    'jacobin': "Jacobin",
+    'theintercept': "The Intercept",
+    'motherjones': "Mother Jones",
+    'thenewyorker': "The New Yorker",
+    'thenation': "The Nation",
+    'slate': "Slate",
+    'vox': "Vox",
+    
+    'cnn': "CNN",
+    'nyt': "New York Times",
+    'abcnews': "ABC News",
+    'theatlantic': "The Atlantic",
+    'buzzfeed': "Buzzfeed",
+    'cbs': "CBS News",
+    'economist': "The Economist",
+    'guardian': "The Guardian",
+    'nbcnews': "NBC News",
+    'politico': "POLITICO",
+    'timemagazine': "TIME",
+    'wp': "Washington Post",
+    'npr': "NPR",
+    
+    'ap': "Associated Press",
+    'bbc': "BBC",
+    'bloomberg': "Bloomberg",
+    'csm': "Christian Science Monitor",
+    'reuters': "REUTERS",
+    'thehill': "The Hill",
+    'usatoday': "USA Today",
+    
+    'wsj': "Wall Street Journal",
+    'reason': "Reason",
+    'we': "Washington Examiner",    
+    'wt': "Washington Times",
+    'fox': "Fox News",
+    
+    'americanspectator': "American Spectator",
+    'bre': "Breitbart",
+    'theblaze': "The Blaze",
+    'cbn': "Christian Broadcasting Network",
+    'dailycaller': "The Daily Caller",
+    'dailymail': "The Daily Mail",
+    'dailywire': 'The Daily Wire',
+    'thefederalist': "The Federalist",
+    'nationalreview': "National Review",
+    'nyp': "New York Post",
+    'newsmax': "Newsmax",
+
+
+    
+}
